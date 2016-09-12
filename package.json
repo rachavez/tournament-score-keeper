@@ -9,6 +9,10 @@
   "keywords": [],
   "author": "Roberto Chavez <r_a_chavez@yahoo.com>",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/rachavez/tourn-react.git"
+  },
   "dependencies": {
     "bootstrap": "^3.3.7",
     "react": "^15.3.1",

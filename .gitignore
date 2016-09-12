@@ -1,0 +1,28 @@
+# standard octocat gitignore file, with some modification        #
+# go to https://gist.github.com/octocat/9257657 for the original #
+##################################################################
+
+# Packages #
+############
+
+*.dmg
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+
+*.log 
+*.sql
+*.sqlite
+
+# macOS generated files #
+#########################
+.DS_Store
+.DS_Store?
+
+# extra node stuff            #
+# run '> npm install' to load #
+###############################
+
+node_modules/*

@@ -1,13 +1,13 @@
 module.export = {
     entry = './src/main.js',
     output = {
-        path = './src',
+        path = './src/',
         filename = 'bundle.js'
     },
     devServer: {
         inline: true,
         contentBase: './src',
-        port: 8100
+        port: 8101
     },
     module: {
         loaders: [

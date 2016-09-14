@@ -1,8 +1,8 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
+import React from 'react'
+import ReactDOM from 'react-dom'
+import Header from './components/Header-static'
 
 ReactDOM.render(
-    return() {
-        <h1>React Placeholder</h1>
-    }
+    <Header />,
+    document.getElementById('main-view')
 )

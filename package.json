@@ -2,7 +2,7 @@
   "name": "tournament-score-tracker",
   "version": "0.0.1-alpha",
   "description": "simple tournament score keeper",
-  "main": "./src/main.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack-dev-server --config webpack.config.js"

@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import Header from '.src/Header-static'
+import Header from '.src/components/Header-static'
 
 ReactDOM.render(
     <Header />,

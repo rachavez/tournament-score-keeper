@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 const propTypes = {
 
@@ -15,13 +15,13 @@ export default class Footer extends React.Component {
 
     render() {
         return (
-            <footer class="footer">
-                <div class="container">
-                    <p class="text-muted">This website for entertainment purposes only. &copy; 2016 Chavez Designs</p>
+            <footer className="footer">
+                <div className="container">
+                    <p className="text-muted">This website for entertainment purposes only. &copy; 2016 Chavez Designs</p>
                 </div>
             </footer>
         );
     }
 } 
 
-Navbar.propTypes = propTypes
+Footer.propTypes = propTypes

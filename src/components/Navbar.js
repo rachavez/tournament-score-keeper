@@ -17,9 +17,9 @@ export default class Navbar extends React.Component {
             <nav className="navbar navbar-default navbar-fixed-top">
                 <div className="container-fluid">
                     <div className="navbar-header">
-                        <a className="navbar-brand" href="#">Score Keeper</a>
+                        <a className="navbar-brand" href="./index.html">Score Keeper</a>
                     </div>
-                </div> <!-- end of div "container-fluid" in nav bar -->
+                </div> 
             </nav>
         );
     }

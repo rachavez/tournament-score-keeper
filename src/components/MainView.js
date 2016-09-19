@@ -1,19 +1,22 @@
 import React from 'react'
 import Header from './Header-static'
+import Navbar from './Navbar'
 
 const propTypes = {
 
-}
+};
 
 export default class MainView extends React.Component {
 
-    constructor(prop) {
+    constructor(props) {
         super(props);
     }
 
     render() {
         return (
-            <Header />
-        )
+            <Navbar />
+        );
     }
 }
+
+MainView.propTypes = propTypes;

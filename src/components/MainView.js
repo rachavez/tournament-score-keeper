@@ -14,7 +14,12 @@ export default class MainView extends React.Component {
 
     render() {
         return (
-            <Navbar />
+            <div>
+                <Navbar />
+                <div className="container-fluid">
+                    <Header />
+                </div>
+            </div>
         );
     }
 }

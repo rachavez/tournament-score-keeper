@@ -1,6 +1,6 @@
 const express = require('express')
 const path = require('path')
-const port = process.env.PORT || 8080
+const port = process.env.PORT || 8102
 
 // serve static assets normally
 app.use(express.static(__dirname + '/public'))

@@ -1,6 +1,6 @@
 {
   "name": "tournament-score-tracker",
-  "version": "0.0.1-alpha",
+  "version": "0.0.2-alpha",
   "description": "simple tournament score keeper",
   "main": "index.js",
   "scripts": {

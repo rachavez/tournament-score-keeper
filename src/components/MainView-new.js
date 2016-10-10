@@ -28,7 +28,7 @@ export default class MainView extends Component {
         return (
             <Router history={hashHistory} >
                 <Route path='/' component={Container}>
-                    <IndexRoute path={Placeholder} />
+                    <IndexRoute component={Placeholder} />
                     <Route path='*' component={NotFound} />
                 </Route>
             </Router>

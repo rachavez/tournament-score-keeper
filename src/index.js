@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import MainView from './components/MainView'
+import MainView from './components/MainView-new'
 import 'bootstrap/dist/css/bootstrap.css';
 
 ReactDOM.render(

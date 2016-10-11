@@ -9,7 +9,8 @@ Eventually, a tournament cup was given to the person who won the most. This proj
 earned towards this cup.
 
 ### Version ###
-* 0.0.1-alpha (as of September 19, 2016)
+* 0.0.1-alpha (as of September 19, 2016) - static version of SPA using React components only
+* 0.0.2.1-alpha (as of October 10, 2016) -  still static, but now using React Router components
 
 ### How do I get set up? ###
 
